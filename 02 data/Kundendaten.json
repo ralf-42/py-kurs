@@ -1,0 +1,40 @@
+{
+    "Kontakte": [
+        {
+            "KundenId": "100",
+            "Name": "Mustermann",
+            "Vorname": "Max",
+            "Strasse": "Brunnengasse 7",
+            "PLZ": "1000",
+            "Ort": "Berlin",
+            "Mail": "Max.Mustermann@t-online.de"
+        },
+        {
+            "KundenId": "101",
+            "Name": "Musterfrau",
+            "Vorname": "Pia",
+            "Strasse": "Talstrasse 1",
+            "PLZ": "1000",
+            "Ort": "Berlin",
+            "Mail": "Pia.Musterfrau@t-online.de"
+        },
+        {
+            "KundenId": "102",
+            "Name": "Mueller",
+            "Vorname": "Mia",
+            "Strasse": "Bergstrasse 8",
+            "PLZ": "1000",
+            "Ort": "Berlin",
+            "Mail": "Mia.Mueller@t-online.de"
+        },
+        {
+            "KundenId": "103",
+            "Name": "Meier",
+            "Vorname": "Moritz",
+            "Strasse": "Bauernstrasse 2",
+            "PLZ": "1000",
+            "Ort": "Berlin",
+            "Mail": "Moritz.Meier@t-online.de"
+        }
+    ]
+}
